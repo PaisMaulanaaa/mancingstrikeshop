@@ -19,13 +19,13 @@
 
 | **Informasi** | **Detail** |
 |---------------|------------|
-| **Nama** | [Nama Anda] |
-| **NIM** | [NIM Anda] |
-| **Kelas** | [Kelas Anda] |
-| **Mata Kuliah** | Pemrograman Web / Full Stack Development |
-| **Semester** | Ganjil 2024/2025 |
-| **Dosen** | [Nama Dosen] |
-| **Institusi** | [Nama Universitas/Institusi] |
+| **Nama** | [FAIZ MAULANA] |
+| **NIM** | [312310469] |
+| **Kelas** | [TI.23.A.5] |
+| **Mata Kuliah** | Pemrograman Visual |
+| **Semester** | Ganjil 2025/2026 |
+| **Dosen** | [ Dr. Muhamad Fatchan, S.Kom., M.Kom.] |
+| **Institusi** | [Universitas Pelita Bangsa] |
 
 ---
 
