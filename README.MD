@@ -2050,7 +2050,7 @@ Project ini dibuat untuk keperluan **Tugas Kuliah Pemrograman Visual** - Semeste
 <div align="center">
 
 **📧 Contact:** [faiz.maulana1405@gmail.com]
-**🔗 Repository:** [GitHub - Mancing Strike](https://github.com/yourusername/mancing-strike)
+**🔗 Repository:** [GitHub - Mancing Strike](https://github.com/PaisMaulanaaa/mancingstrikeshop)
 **🌐 Live Demo:** [Demo Link](#) *(jika sudah deploy)*
 
 ---
